@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0x64E71C66505837Eb81f528bd71192c7c351f24E5",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x64E71C66505837Eb81f528bd71192c7c351f24E5",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "larva mfers",
+  "SYMBOL": "LARMF",
+  "MAX_SUPPLY": 10000,
+  "MAX_VIP_SUPPLY": 2500,
+  "MAX_FREE_SUPPLY": 5000,
+  "WEI_COST": 6900000000000000,
+  "DISPLAY_COST": 0.0069,
+  "VIP_WEI_COST": 0,
+  "VIP_DISPLAY_COST": 0,
+  "GAS_LIMIT": 225000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/larva-mfers",
+  "SHOW_BACKGROUND": true
+}
